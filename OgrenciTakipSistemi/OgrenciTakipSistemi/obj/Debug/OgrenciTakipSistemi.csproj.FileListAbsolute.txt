@@ -1,0 +1,12 @@
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\bin\Debug\OgrenciTakipSistemi.exe.config
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\bin\Debug\OgrenciTakipSistemi.exe
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\bin\Debug\OgrenciTakipSistemi.pdb
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.Form1.resources
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.Properties.Resources.resources
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.csproj.GenerateResource.Cache
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.exe
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.pdb
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.YonetimForm.resources
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.OgrenciForm.resources
+C:\Users\hmeyraa\Desktop\C# DERSLER\OgrenciTakipSistemi\OgrenciTakipSistemi\obj\Debug\OgrenciTakipSistemi.OgretmenForm.resources
