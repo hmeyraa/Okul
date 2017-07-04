@@ -1,0 +1,2 @@
+# Okul
+öğrenci takip sistemi
